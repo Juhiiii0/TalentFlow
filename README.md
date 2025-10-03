@@ -54,7 +54,7 @@ A comprehensive, modern recruitment management platform built with React, featur
 
 ```bash
 # Clone the repository
-git clone https://github.com/Jivan-Jala/TalentFlow.git
+git clone https://github.com/Juhiiii0/TalentFlow
 
 # Navigate to project directory
 cd TalentFlow
