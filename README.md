@@ -2,10 +2,14 @@
 
 A comprehensive, modern recruitment management platform built with React, featuring advanced UI/UX, real-time analytics, and seamless candidate management.
 
-![TalentFlow](https://entntassignmenttalentflowjuhi.netlify.app)
+![TalentFlow](https://img.shields.io/badge/TalentFlow-Recruitment%20Platform-orange?style=for-the-badge&logo=react)
 ![React](https://img.shields.io/badge/React-18.0-blue?style=for-the-badge&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.0-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![Netlify](https://img.shields.io/badge/Deploy-Netlify-00C7B7?style=for-the-badge&logo=netlify)
+
+
+## Deployed Link
+https://entntassignmenttalentflowjuhi.netlify.app
 
 ## ✨ Features
 
